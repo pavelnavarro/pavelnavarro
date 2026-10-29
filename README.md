@@ -2,11 +2,7 @@
   <img src="./assets/header.svg" width="100%" alt="Pavel Navarro — Software Engineering. Real-time applications, thoughtful backends, applied AI." />
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/pavelnavarro034/"><img src="https://img.shields.io/badge/LinkedIn-Let's_connect-58A6FF?style=flat-square" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/UTEP-Computer_Science-13263D?style=flat-square" alt="Computer Science at UTEP" />
-  <img src="https://img.shields.io/badge/Focus-Backend_%26_Full_Stack-13263D?style=flat-square" alt="Backend and full stack" />
-</p>
+<p align="center"><a href="https://www.linkedin.com/in/pavelnavarro034/"><b>LinkedIn ↗</b></a> &nbsp; / &nbsp; Computer Science @ UTEP &nbsp; / &nbsp; Backend &amp; Full Stack</p>
 
 ### Building the systems behind the experience.
 
